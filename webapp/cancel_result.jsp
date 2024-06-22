@@ -96,7 +96,7 @@ button:hover {
             try {
                 // Veritabanına bağlan
                 Class.forName("com.mysql.cj.jdbc.Driver");
-                conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/Website_users", "root", "Ilovethissite123*");
+                conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/Website_users", "id", "password");
                 
                 // Rezervasyonu iptal et
                 String sql = "DELETE FROM RoomBookings WHERE room_number = ?";
