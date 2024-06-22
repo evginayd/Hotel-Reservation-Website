@@ -31,6 +31,7 @@ Import the servlets into the Java Resources folder:
 - ForgotPassword.java
 - Login.java
 - Logout.java
+- makereservation.java
 - NewPassword.java
 - RegistrationServlet.java
 - ValidateOtp.java
