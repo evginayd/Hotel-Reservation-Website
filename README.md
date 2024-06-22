@@ -11,6 +11,7 @@ Prerequisites
 Set up a server and create a web project connected to Apache Tomcat.
 Create the necessary JSP files within the webapp folder as listed below:
 
+- cancel_reservation_logic.jsp
 - cancel_result.jsp
 - cancelreservation.jsp
 - confirm_reservation.jsp
@@ -18,8 +19,10 @@ Create the necessary JSP files within the webapp folder as listed below:
 - forgotPassword.jsp
 - index.jsp
 - login.jsp
+- logout.jsp
 - makereservation.jsp
 - newPassword.jsp
+- payment.jsp
 - registration.jsp
 - room_search.jsp
   
