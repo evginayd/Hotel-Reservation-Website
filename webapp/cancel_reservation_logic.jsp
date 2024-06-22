@@ -56,8 +56,8 @@
 
                 // Database connection parameters
                 String dbUrl = "jdbc:mysql://localhost:3306/Website_users";
-                String dbUser = "root";
-                String dbPassword = "Ilovethissite123*";
+                String dbUser = "id";
+                String dbPassword = "password";
 
                 Connection conn = null;
                 PreparedStatement stmt = null;
